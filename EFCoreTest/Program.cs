@@ -8,8 +8,8 @@ using Microsoft.EntityFrameworkCore;
 
 //AsNoTrackingTest();
 //AsNoTrackingWithIdentityResolutionTest();
-await GetUser(1);
-GetUserWithCompiledQuery(1);
+//await GetUser(1);
+//GetUserWithCompiledQuery(1);
 
 Console.ReadLine();
 
